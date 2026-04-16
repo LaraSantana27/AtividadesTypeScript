@@ -14,7 +14,7 @@ console.log(vetor)
 
 //vetor.sort()              //Ordena em ordem alfabetica e crescente
 
-let paleta = vetor.join("-")
+let paleta = vetor.join(" - ")  //Precisa declarar, porque tira uma copia do vetor
 
 
 //console.log(vetor)
